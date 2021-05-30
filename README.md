@@ -24,3 +24,10 @@ and data visualization. More details are written inside the file.
 
 > Then we have `'Driver Drowsiness Detection.ipynb'` file which is our main file. It contains code for the user interface and when to run alarm file
 and predicting about whether driver is drowsy or not.
+
+## Flask Api
+
+link - ` https://driver-nidra-detection.herokuapp.com/`
+input variables - preprossed image array of left and right eye
+
+Cloud platform : heroku
