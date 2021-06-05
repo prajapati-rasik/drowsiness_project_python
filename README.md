@@ -38,4 +38,6 @@ Cloud platform : heroku
 
 ----------------------------
 
+![screenshot_1](https://github.com/arr_swartz/drowsiness_project_python/blob/master/s1.png?raw=true)
 
+![screenshot_2](https://github.com/arr_swartz/drowsiness_project_python/blob/master/s2.png?raw=true)
