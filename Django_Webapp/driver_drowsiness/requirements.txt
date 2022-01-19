@@ -1,4 +1,4 @@
-Django==3.2.4
+Django==3.2.5
 django-heroku==0.3.1
 django-material==1.9.0
 djangorestframework==3.12.4
