@@ -10,6 +10,6 @@ numpy==1.18.1
 opencv-python-headless==4.2.0.32
 requests==2.25.1
 scipy==1.6.3
-tensorflow-cpu==2.5.1
+tensorflow-cpu==2.5.2
 playsound
 six==1.15.0
