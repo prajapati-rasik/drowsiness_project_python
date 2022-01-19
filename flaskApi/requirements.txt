@@ -1,5 +1,5 @@
 flask==2.0.1
-numpy==1.18.1
+numpy==1.21.0
 opencv-python-headless==4.2.0.32
 gunicorn
 Keras==2.4.3
