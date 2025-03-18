@@ -1,3 +1,6 @@
 [submodule "flaskApi"]
 	path = flaskApi
 	url = https://github.com/prajapati-rasik/Driver-drowsiness-detection-api.git
+[submodule "Django_Webapp"]
+	path = Django_Webapp
+	url = https://github.com/prajapati-rasik/Driver-drowsiness-detection-webapp.git
