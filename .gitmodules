@@ -1,0 +1,3 @@
+[submodule "flaskApi"]
+	path = flaskApi
+	url = https://github.com/prajapati-rasik/Driver-drowsiness-detection-api.git
