@@ -1,9 +1,0 @@
-{% extends 'base.html' %} {% block content %}
-<div style="border: 1px solid black">
-  {% if isApiUsed == 1 %}
-  <img class="feed" src="/video_feed_api" />
-  {% endif %} {% if isApiUsed == 0 %}
-  <img class="feed" src="/video_feed_model" />
-  {% endif %}
-</div>
-{% endblock %}
