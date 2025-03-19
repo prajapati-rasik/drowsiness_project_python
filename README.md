@@ -34,7 +34,7 @@ and predicting about whether driver is drowsy or not.
 
 Input variables - preprossed image array of left and right eye
 
-Cloud platform : heroku
+Cloud Platform : Render
 
 ## Django Webapp
 
